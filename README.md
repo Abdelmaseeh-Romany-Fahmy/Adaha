@@ -21,25 +21,48 @@ Built with an accessibility-first approach, it bridges the gap between talent an
 * Changing Perception: Shifting the narrative from "need" to "achievement" through a dedicated success stories section.
 * Implementing "Skills-First" Approach: Connecting users with job opportunities based on their actual abilities and what they can accomplish, rather than their disability type.
 * Ensuring Global Accessibility: Developing a platform that adheres to international accessibility standards to ensure ease of use for everyone.
-## Project Scope
-* Digital Platform Development: Building a sophisticated digital platform to empower people with disabilities professionally and socially.
-* Skills-First Matching System: Implementing a matching engine that connects users to jobs based on their actual abilities rather than medical classifications.
-* Accessibility Integration: Designing a user experience (UX) that adheres to global accessibility standards, including screen reader support and high contrast.
-* Employer-Candidate Bridge: Creating a functional interface for companies to find and recruit diverse talents.
-* Success Story Showcase: Developing a dedicated section to highlight achievements and change societal perceptions.
+## Project Scope – Strategic & Impact Framework (Short Version)
+* 1- Core Platform Capabilities
+  
+The platform provides:
+Accessible user registration and skill-based profiles.
+WCAG-compliant, accessibility-first experience.
+Smart job search and personalized matching.
+Inclusive employer portal highlighting workplace accessibility.
+Simple application tracking system.
+Training, career development, and user support resources.
+
+* 2- User Experience Value
+
+Fully accessible and intuitive navigation.
+Reduced job-search stress through clarity and transparency.
+Trust-building between applicants and employers.
+
+* 3- Social & Professional Impact
+
+Inclusion: Connecting people with disabilities to fair job opportunities.
+Employment: Supporting the full application journey.
+Growth: Enabling continuous skill and career development
+
+* 4- Strategic Boundaries
+
+The platform does not handle:
+Hiring decisions or payroll management.
+Physical recruitment events or HR system integrations.
+Advanced AI hiring algorithms.
+Physical assistive hardware (digital accessibility only).
+
 ## Project Plan
 The project is executed through the following key phases to ensure a comprehensive and accessible solution:
-## Phase 1 — Analysis & Research
-* Identifying Challenges: Analyzing the marginalization and accessibility gaps faced by people with disabilities.
-* Methodology Setup: Defining the "Skills-First" approach to prioritize abilities over disabilities.
-## Phase 2 — UX/UI Design (Accessibility Focus)
-* Inclusive UX Design: Developing interfaces with high contrast and screen reader support.
-* Smart Onboarding: Creating a skill-based registration journey.
-* Prototyping: Designing the "Ability-Based Matching" engine interface.
-## Phase 3 — Development & Integration
-* Matching Engine: Implementing the search engine that matches jobs with specific accessibility facilities.
-* Platform Building: Developing the core features of the "Qadaha" digital platform.
-## Phase 4 — Testing & Documentation
-* Accessibility Testing: Ensuring the platform meets global accessibility standards.
-* Success Story Integration: Building the section for showcasing achievements and success stories.
-* Final Documentation: Completing the project report under the supervision of DEPI.
+## 1- User Research (Week 1)
+* Conducted in-depth interviews and a broader survey with job seekers (including people with disabilities) to uncover job search behaviors, emotional states, major pain points, accessibility barriers, platform
+frustrations, and key expectations.
+
+## 2- Empathy & Personas (Week 2)
+* Created Empathy Maps to capture what users think, feel, say, and do during job search; identified core needs/pains; and developed detailed personas representing diverse abilities, experience levels, motivations, goals, and obstacles.
+## P3- Information Architecture & Validation (Week 3)
+* Designed logical site structure and navigation optimized for accessibility ran card-sorting sessions with users refined hierarchy and labels based on results  documented final IA (pages, sections, features) as the foundation for design & development.
+## 4- Content Strategy & User Flows (Week 4)
+* Defined content requirements and essential information for each page/task mapped detailed, step-by-step user flows for core journeys (job search, profile creation, applications, training access) highlighted friction points and proposed improvements compiled comprehensive content + flow documentation.
+## 5- Wireframes & Interactive Prototype (Week 5)
+*Created low-fidelity mid-fidelity wireframes focusing on layout, hierarchy, and usability built clickable interactive prototype in Figma conducted early usability testing iterated on navigation, clarity, and task success based on feedback (visual design deferred to later stages).
