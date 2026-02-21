@@ -1,4 +1,4 @@
-# Qadaha Platform
+# Adaha Platform
 ## URL Shortner Webservice
 ## UX/UI Design Project under the supervision of Digital Egypt Pioneers Initiative (DEPI)
 ## ![WhatsApp Image 2026-02-20 at 8 21 35 PM](https://github.com/user-attachments/assets/c7e150be-eef5-4640-b169-eb6002f3217d)
