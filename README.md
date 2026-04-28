@@ -1,6 +1,9 @@
 # Adaha Platform
-## URL Shortner Webservice
-## UX/UI Design Project under the supervision of Digital Egypt Pioneers Initiative (DEPI)
+## 🎨 UI Preview
+
+Click below to explore the design:
+
+🔗 https://www.figma.com/design/EFWKB6efSkyEexNrLtqW5n/Adaha?node-id=0-1&t=TfY7rAWdylMHgbvA-1
 ## ![WhatsApp Image 2026-02-20 at 8 21 35 PM](https://github.com/user-attachments/assets/c7e150be-eef5-4640-b169-eb6002f3217d)
 ## Team members
 * Apdelmaseh Romany Fahmy
